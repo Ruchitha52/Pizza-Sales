@@ -1,22 +1,37 @@
-# Pizza-Sales Key Questions
+Pizza Sales Analysis
 
-Basic
+  Introduction
+     
+  The pizza sales analysis dashboard provides a comprehensive view of pizza sales data using Power BI.
+It offers insights into total sales, most ordered pizzas, top-selling pizzas by category, sales by size, and peak sales times.
+Visualizations
 
-1.  Retrieve the total number of orders placed.
-2.  Calculate the total revenue generated from pizza sales.
-3.  Identify the highest-priced pizza.
-4.  Identify the most common pizza size ordered.
-5.  List the top 5 most ordered pizza types along with their quantities.
+  Total Sales : A card visual displays total sales, showing a revenue of $817.86K.
+  
+  Most Ordered Pizza : A card visual and bar chart reveal The Classic Deluxe Pizza as the most ordered.
+  
+Most Selling Pizza : A card visual and bar chart show The Thai Chicken Pizza generates the most sales revenue.
 
+Hot Selling Pizza by Category : A pie chart shows sales distribution across categories, with classic and veggie pizzas being particularly popular.
 
-Intermediate:
-1.   Join the necessary tables to find the total quantity of each pizza category ordered.
-2.   Determine the distribution of orders by hour of the day.
-3.   Join relevant tables to find the category-wise distribution of pizzas.
-4.   Group the orders by date and calculate the average number of pizzas ordered per day.
-5.   Determine the top 3 most ordered pizza types based on revenue.
+Pizza Sales by Size : A bar chart highlights sales by pizza size, with medium and large pizzas being the most preferred.
 
-Advanced:
-1.  Calculate the percentage contribution of each pizza type to total revenue.
-2.  Analyze the cumulative revenue generated over time.
-3.  Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+Sales by Time of Day : A pie chart displays sales distribution by time of day, with evening being the peak time for sales.
+
+Monthly and Daily Sales: 
+
+- Monthly Sales: A line chart shows seasonal sales trends.
+- Daily Sales: A bar chart identifies Friday as the highest sales day.
+  
+Bottom 5 Selling Pizzas : 
+A bar chart highlights the least selling pizzas.
+
+Key Findings
+- Total Sales: $817.86K in total sales.
+- Most Ordered Pizza: The Classic Deluxe Pizza.
+- Most Selling Pizza: The Thai Chicken Pizza.
+-Category Preferences: Classic and veggie pizzas are popular.
+- Pizza Size Preferences: Medium and large pizzas dominate sales.
+- Peak Sales Times: Evening is the busiest time for sales.
+- Sales Trends: Monthly and daily trends provide insights into high-sales periods.
+Skills: Microsoft Power BI • Analytical Skills
