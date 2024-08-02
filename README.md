@@ -1,10 +1,10 @@
-Pizza Sales Analysis
-
-  Introduction
+<h3>Pizza Sales Analysis</h3>
+   
+  <h3>Introduction</h3>
      
-  The pizza sales analysis dashboard provides a comprehensive view of pizza sales data using Power BI.
-It offers insights into total sales, most ordered pizzas, top-selling pizzas by category, sales by size, and peak sales times.
-Visualizations
+  The pizza sales analysis dashboard provides a comprehensive view of pizza sales data using Power BI.It offers insights into total sales, most ordered pizzas, top-selling pizzas by category, sales by size, and peak sales times.
+
+  <h3>Visualizations </h3>
 
   Total Sales : A card visual displays total sales, showing a revenue of $817.86K.
   
